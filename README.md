@@ -103,7 +103,7 @@ Whether you’re a student, professional, or someone seeking self-improvement, *
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/rkstudio585/rk-deep-mind-set.git
-   ``
+   ```
 2. **Preview**:
    > HTML Preview Link In The below 👇🏾.
    >
