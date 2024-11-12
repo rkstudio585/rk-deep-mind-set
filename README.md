@@ -98,14 +98,19 @@ Whether you’re a student, professional, or someone seeking self-improvement, *
 
 ---
 
-## Get Started 💻
+## Get Repo 💻
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rkstudio585/deep-mind-set.git
-   ```
-2. **Review the Charter**: Familiarize yourself with the daily charter and the principles outlined here.
-3. **Start Practicing**: Begin implementing the charter and adapt it to fit your personal learning style and goals.
+   git clone https://github.com/rkstudio585/rk-deep-mind-set.git
+   ``
+2. **Preview**:
+   > HTML Preview Link In The below 👇🏾.
+   >
+   > [Preview Link](https://rk-deep-mind.vercel.app)
+   > 
+3. **Review the Charter**: Familiarize yourself with the daily charter and the principles outlined here.
+4. **Start Practicing**: Begin implementing the charter and adapt it to fit your personal learning style and goals.
 
 ---
 
